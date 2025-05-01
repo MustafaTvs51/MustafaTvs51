@@ -1,16 +1,44 @@
-## Hi there 👋
+# Merhaba! 👋 Ben [Adınız]!
 
-<!--
-**MustafaTvs51/MustafaTvs51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geliştirme eğitimleri alıyorum. Bu repo, kurslarımda öğrendiklerimi ve projelerimi içeriyor. Her gün daha fazla öğreniyor ve geliştirmeye devam ediyorum.
 
-Here are some ideas to get you started:
+## 🚀 Becerilerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programlama Dilleri**: Java
+- **Veritabanı Yönetimi**: SQL, PostgreSQL
+- **Diğer**: Git, GitHub
+
+## 📚 Eğitim
+
+- **Patika.dev** -  Patika+ Back-End Web Developer / Front-End Web Developer
+- 
+## 🔭 Projelerim
+
+Bu repoda, **Patika** kursu kapsamında çözmüş olduğum ödevleri ve kişisel projelerimi bulabilirsiniz. Öğrenmeye dayalı projelerimi sürekli olarak güncelliyorum.
+
+- [Patika Kurs Ödevleri Repo]([https://github.com/username/patika-kurs-odevleri](https://github.com/MustafaTvs51/Patika_Works)) - Patika kursu kapsamında tamamladığım ödevlerin çözümleri.
+- [Kişisel Proje 1]([https://github.com/username/proje1](https://github.com/MustafaTvs51/Library_System-master)) - Kütüphane Yönetim sistemi.Kitap kiralama,iade etme,listeleme gibi özellikleri barındırıyor(Java dilinde yazıldı.)
+
+## 🌱 Şu Anda Öğreniyorum
+
+- **Web Geliştirme** (Java)
+- **Veritabanı Yönetimi** (PostgreSQL)
+- **Algoritmalar ve Veri Yapıları**
+
+## 📫 Bana Ulaşın
+
+Eğer benimle iletişime geçmek isterseniz, aşağıdaki sosyal medya hesaplarım üzerinden ulaşabilirsiniz:
+
+- **E-posta**: example@email.com
+- **LinkedIn**: [LinkedIn Profilim](https://www.linkedin.com/in/your-profile)
+- **Twitter**: [Twitter Profilim](https://twitter.com/your-profile)
+
+## ⚡ Fun Fact
+
+Fanstastik 3'lü = Kodlama, Müzik, Kahve
+
+---
+
+## GitHub İstatistiklerim 📊
+
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
