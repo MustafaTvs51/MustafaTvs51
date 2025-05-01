@@ -11,7 +11,7 @@ Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geli�
 ## 📚 Eğitim
 
 - **Patika.dev** -  Patika+ Back-End Web Developer / Front-End Web Developer
-- 
+
 ## 🔭 Projelerim
 
 Bu repoda, **Patika** kursu kapsamında çözmüş olduğum ödevleri ve kişisel projelerimi bulabilirsiniz. Öğrenmeye dayalı projelerimi sürekli olarak güncelliyorum.
@@ -38,7 +38,3 @@ Eğer benimle iletişime geçmek isterseniz, aşağıdaki sosyal medya hesaplar�
 Fanstastik 3'lü = Kodlama, Müzik, Kahve
 
 ---
-
-## GitHub İstatistiklerim 📊
-
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
