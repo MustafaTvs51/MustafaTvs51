@@ -1,4 +1,4 @@
-# Merhaba! 👋 Ben [Mustafa]!
+# Merhaba! 👋 Ben Mustafa !
 
 Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geliştirme eğitimleri alıyorum. Bu repo, kurslarımda öğrendiklerimi ve projelerimi içeriyor. Her gün daha fazla öğreniyor ve geliştirmeye devam ediyorum.
 
