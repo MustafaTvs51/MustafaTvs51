@@ -29,9 +29,9 @@ Bu repoda, **Patika** kursu kapsamında çözmüş olduğum ödevleri ve kişise
 
 Eğer benimle iletişime geçmek isterseniz, aşağıdaki sosyal medya hesaplarım üzerinden ulaşabilirsiniz:
 
-- **E-posta**: example@email.com
-- **LinkedIn**: [LinkedIn Profilim](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [Twitter Profilim](https://twitter.com/your-profile)
+- **E-posta**: mustafa_tavusbay@outlook.com
+- **LinkedIn**: [LinkedIn Profilim]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mustafatavusbay/))
+
 
 ## ⚡ Fun Fact
 
