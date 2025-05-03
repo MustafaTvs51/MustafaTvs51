@@ -30,7 +30,7 @@ Bu repoda, **Patika** kursu kapsamında çözmüş olduğum ödevleri ve kişise
 Eğer benimle iletişime geçmek isterseniz, aşağıdaki sosyal medya hesaplarım üzerinden ulaşabilirsiniz:
 
 - **E-posta**: mustafa_tavusbay@outlook.com
-- **LinkedIn**:[ [LinkedIn Profilim]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mustafatavusbay/))](https://www.linkedin.com/in/mustafatavusbay/)
+- **LinkedIn**:([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mustafatavusbay/))](https://www.linkedin.com/in/mustafatavusbay/)
 
 
 ## ⚡ Fun Fact
