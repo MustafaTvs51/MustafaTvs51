@@ -24,8 +24,12 @@ Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geli�
 - **Veritabanı Yönetimi** (PostgreSQL,SQL)
 - **Algoritmalar ve Veri Yapıları**
 
-<p align="left"> <a href="mailto:mustafa_tavusbay@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Mail"/> </a> <a href="https://www.linkedin.com/in/mustafatavusbay/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> </a> </p>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mustafatavusbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="velihangozek" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mustafa_tavusbay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="velihan" height="30" width="40" /></a>
+</a>
+</p>
 
 ## ⚡ Fun Fact
 
