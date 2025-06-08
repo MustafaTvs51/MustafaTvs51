@@ -18,13 +18,13 @@ Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geli�
 
 - **Patika.dev** -  Patika+ Back-End Web Developer / Front-End Web Developer
 
-## 🌱 Şu Anda Öğreniyorum
+## 🌱 I going to learn
 
 - **Web Geliştirme** (Java,Spring Boot)
 - **Veritabanı Yönetimi** (PostgreSQL,SQL)
 - **Algoritmalar ve Veri Yapıları**
 
-## 📫 Bana Ulaşın
+## 📫 Connect me 
 
 Eğer benimle iletişime geçmek isterseniz, aşağıdaki sosyal medya hesaplarım üzerinden ulaşabilirsiniz:
 
