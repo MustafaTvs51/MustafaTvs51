@@ -4,9 +4,24 @@ Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geli�
 
 ## 🚀 Becerilerim
 
-- **Programlama Dilleri**: Java , Spring Boot
-- **Veritabanı Yönetimi**: SQL, PostgreSQL
-- **Diğer**: Git, GitHub
+### 🖥️ Programlama Dilleri
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
+</p>
+
+### 🗄️ Veritabanı Yönetimi
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL (MySQL)"/>
+</p>
+
+### 🔧 Diğer
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+</p>
+
 
 ## 📚 Eğitim
 
