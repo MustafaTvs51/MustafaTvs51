@@ -4,7 +4,7 @@ Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geli�
 
 ## 🚀 Becerilerim
 
-- **Programlama Dilleri**: Java
+- **Programlama Dilleri**: Java , Spring Boot
 - **Veritabanı Yönetimi**: SQL, PostgreSQL
 - **Diğer**: Git, GitHub
 
