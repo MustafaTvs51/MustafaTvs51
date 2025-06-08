@@ -2,7 +2,7 @@
 
 Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geliştirme eğitimleri alıyorum. Bu repo, kurslarımda öğrendiklerimi ve projelerimi içeriyor. Her gün daha fazla öğreniyor ve geliştirmeye devam ediyorum.
 
-## 🚀 Becerilerim
+## 🚀 Tools And Programming
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
