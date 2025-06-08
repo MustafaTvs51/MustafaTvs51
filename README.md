@@ -14,21 +14,14 @@ Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geli�
 </p>
 
 
-## 📚 Eğitim
+## 📚 Education
 
 - **Patika.dev** -  Patika+ Back-End Web Developer / Front-End Web Developer
 
-## 🔭 Projelerim
-
-Bu repoda, **Patika** kursu kapsamında çözmüş olduğum ödevleri ve kişisel projelerimi bulabilirsiniz. Öğrenmeye dayalı projelerimi sürekli olarak güncelliyorum.
-
-- [Patika Kurs Ödevleri Repo]([https://github.com/username/patika-kurs-odevleri](https://github.com/MustafaTvs51/Patika_Works)) - Patika kursu kapsamında tamamladığım ödevlerin çözümleri.
-- [Kişisel Proje 1]([https://github.com/username/proje1](https://github.com/MustafaTvs51/Library_System-master)) - Kütüphane Yönetim sistemi.Kitap kiralama,iade etme,listeleme gibi özellikleri barındırıyor(Java dilinde yazıldı.)
-
 ## 🌱 Şu Anda Öğreniyorum
 
-- **Web Geliştirme** (Java)
-- **Veritabanı Yönetimi** (PostgreSQL)
+- **Web Geliştirme** (Java,Spring Boot)
+- **Veritabanı Yönetimi** (PostgreSQL,SQL)
 - **Algoritmalar ve Veri Yapıları**
 
 ## 📫 Bana Ulaşın
