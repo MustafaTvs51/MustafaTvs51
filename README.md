@@ -24,12 +24,7 @@ Ben bir yazılım geliştiricisiyim ve **Patika.dev** üzerinden yazılım geli�
 - **Veritabanı Yönetimi** (PostgreSQL,SQL)
 - **Algoritmalar ve Veri Yapıları**
 
-## 📫 Connect me 
-
-Eğer benimle iletişime geçmek isterseniz, aşağıdaki sosyal medya hesaplarım üzerinden ulaşabilirsiniz:
-
-- **E-posta**: mustafa_tavusbay@outlook.com
-- **LinkedIn**:https://www.linkedin.com/in/mustafatavusbay/
+<p align="left"> <a href="mailto:mustafa_tavusbay@outlook.com" target="_blank"> <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Mail"/> </a> <a href="https://www.linkedin.com/in/mustafatavusbay/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> </a> </p>
 
 
 ## ⚡ Fun Fact
